@@ -1,15 +1,14 @@
 # About Me
 
-Cybersecurity-focused MCA student with expertise in network security, ethical hacking, and security auditing. Passionate about identifying vulnerabilities and implementing robust security solutions. Skilled in both defensive and offensive security strategies.
+Hey! I’m Avideepth, also known as Lunatic.
+I’m currently pursuing my MCA degree and have a deep passion for cybersecurity and ethical hacking. I’m driven by the challenge of identifying vulnerabilities, securing systems, Malware Analysis,and developing effective defense strategies. I enjoy exploring both the offensive and defensive sides of cybersecurity to build stronger, safer digital environments.
 
 ## Tech Stack:
 
-### Security & Development:
+### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Security Tools:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -23,21 +22,13 @@ Cybersecurity-focused MCA student with expertise in network security, ethical ha
 ![](https://nirzak-streak-stats.vercel.app/?user=Lunatic05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunatic05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Security Focus Areas:
-| **Web Application Security** | **Network Security** | **Security Tools** |
-|------------------------------|----------------------|-------------------|
-| • Vulnerability Assessment | • Network Scanning | • Kali Linux |
-| • Penetration Testing | • Traffic Analysis | • Wireshark |
-| • Security Auditing | • Firewall Config | • Metasploit |
-| • OWASP Top 10 | • Port Scanning | • Nmap |
-
 ---
 
 ### Platforms & Environments:
-- **Linux Environments** - Kali, Ubuntu, CentOS
-- **Security Frameworks** - OWASP,
+- **OS Environments** - Kali, Metasploitable, REMnux, FlareVM
+- **Security Frameworks** - OWASP Top 10, MITRE ATT&CK, YARA
 - **Networking** - TCP/IP, DNS, HTTP/S
-- **Scanning Tools** - Nmap, Nessus, OpenVAS
+- **Tools** - Nmap, Wireshark, Aircrack-ng
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avideepth-behera/)
