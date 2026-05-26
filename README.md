@@ -1,15 +1,16 @@
 # 👨‍💻 About Me
 
 Hey! I’m **Avideepth**, also known as **Lunatic**.  
-I’m currently pursuing my **MCA degree** and have a deep passion for **Cybersecurity, Ethical Hacking, Penetration Testing and Malware Analysis**.
+I’m currently pursuing my **MCA degree** and have a deep passion for **Cybersecurity, Ethical Hacking, and Malware Analysis**.
 
-I enjoy identifying vulnerabilities, securing systems, analyzing malware behavior and building stronger defensive strategies. My interests span across both **offensive** and **defensive** security, with a focus on creating safer digital environments and continuously improving my technical skills.
+I enjoy identifying vulnerabilities, securing systems, analyzing malware behavior, and building stronger defensive strategies. My interests span across both **offensive** and **defensive** security, with a focus on creating safer digital environments and continuously improving my technical skills.
 
 ---
 
 # ⚡ Tech Stack
 
 ## 💻 Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -22,7 +23,7 @@ I enjoy identifying vulnerabilities, securing systems, analyzing malware behavio
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-252525?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-2C2C2C?style=for-the-badge&logo=airplayaudio&logoColor=white)
 
 ---
@@ -42,7 +43,7 @@ I enjoy identifying vulnerabilities, securing systems, analyzing malware behavio
 
 # 🖥️ Platforms & Environments
 
-- **Operating Systems** — Kali Linux, Metasploit Framework, REMnux, FlareVM
+- **Operating Systems** — Kali Linux, Metasploitable, REMnux, FlareVM
 - **Security Frameworks** — OWASP Top 10, MITRE ATT&CK, YARA
 - **Networking** — TCP/IP, DNS, HTTP/S
 - **Tools & Utilities** — Burp Suite, Nmap, Wireshark, Aircrack-ng, Metasploit
@@ -51,11 +52,15 @@ I enjoy identifying vulnerabilities, securing systems, analyzing malware behavio
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Lunatic05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lunatic05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lunatic05&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Lunatic05&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunatic05&theme=tokyonight&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunatic05&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
@@ -68,8 +73,20 @@ I enjoy identifying vulnerabilities, securing systems, analyzing malware behavio
 
 # 👀 Profile Views
 
-[![](https://visitcount.itsvg.in/api?id=Lunatic05&icon=5&color=6)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Lunatic05&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
-> “Security is not a product, but a process.” – Bruce Schneier
+# 🧩 Current Focus
+
+- Ethical Hacking & Penetration Testing
+- Malware Analysis
+- Web Application Security
+- Threat Detection & Analysis
+- Building Cybersecurity Projects
+
+---
+
+> “Security is not a product, but a process.” — Bruce Schneier
