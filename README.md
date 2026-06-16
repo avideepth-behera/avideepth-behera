@@ -53,13 +53,13 @@ I enjoy identifying vulnerabilities, securing systems, analyzing malware behavio
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lunatic05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avideepth-behera&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lunatic05&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avideepth-behera&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunatic05&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avideepth-behera&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@ I enjoy identifying vulnerabilities, securing systems, analyzing malware behavio
 # 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Lunatic05&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=avideepth-behera&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
