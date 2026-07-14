@@ -43,9 +43,8 @@ I enjoy identifying vulnerabilities, securing systems, analyzing malware behavio
 
 # 🖥️ Platforms & Environments
 
-- **Operating Systems** — Kali Linux, Metasploitable, REMnux, FlareVM
+- **Operating Systems** — Kali Linux, Windows, Metasploitable, REMnux, FlareVM
 - **Security Frameworks** — OWASP Top 10, MITRE ATT&CK, YARA
-- **Networking** — TCP/IP, DNS, HTTP/S
 - **Tools & Utilities** — Burp Suite, Nmap, Wireshark, Aircrack-ng, Metasploit
 
 ---
